@@ -8,5 +8,5 @@
   "changelog_ar": "• الإصدار الرسمي الأول MetaKiller v1.0 بواسطة Kero309x\n• حظر إعلانات الخلاصة والريلز والقصص بالكامل 100%\n• أداة متطورة لتحميل الفيديوهات بجودات متعددة وصوت منفصل مع ثيم متكيف ديناميكياً\n• دعم كامل للوضع الداكن و Pure AMOLED الحقيقي\n• إمكانية تغيير خط التطبيق بالكامل وتخصيص الخصوصية والتحكم في القراءة والكتابة\n• نظام فحص التحديثات التلقائي عبر GitHub",
   "changelog_en": "• First official release MetaKiller v1.0 by Kero309x\n• 100% Ad blocking across News Feed, Reels, and Stories\n• Integrated high-quality Video & Audio Downloader with dynamic adaptive theming\n• Full Dark Mode and true Pure AMOLED black theme support\n• App-wide font changing, privacy enhancements (ghost mode)\n• Automatic OTA update system via GitHub",
   "download_url": "https://github.com/Kero309x/MetaKiller/releases/latest",
-  "force_update": false
+  "force_update": true
 }
